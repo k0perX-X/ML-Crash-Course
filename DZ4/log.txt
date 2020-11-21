@@ -1,0 +1,73 @@
+ERROR:root:Sun Nov 22 00:13:37 2020 File: Dataset/Anime/131247.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:13:38 2020 File: Dataset/Anime/131704.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:13:40 2020 File: Dataset/Anime/132651.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:13:40 2020 File: Dataset/Anime/132963.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:13:48 2020 File: Dataset/Anime/137268.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:13:49 2020 File: Dataset/Anime/137732.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:14:02 2020 File: Dataset/Deers/7525a833fd.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:14:08 2020 File: Dataset/Deers/d494bc0806.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:14:11 2020 File: Dataset/Mask/1534.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:14:12 2020 File: Dataset/Mask/1702.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:14:13 2020 File: Dataset/Mask/1950.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+ERROR:root:Sun Nov 22 00:14:14 2020 File: Dataset/Mask/2342.jpg‡Ù‡ˆÙ Traceback (most recent call last):
+  File "C:\Users\kolya\YandexDisk\repos\ML-Crash-Course\DZ4\main.py", line 25, in <module>
+    img = cv2.resize(img, (50, 50))
+cv2.error: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-95hbg2jt\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+
+INFO:root:Total errors: 12
